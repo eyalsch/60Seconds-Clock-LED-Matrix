@@ -1,4 +1,4 @@
-60Seconds-Clock-LED-Matrix
+60 Seconds Clock LED Matrix
 ==========================
 
 60 seconds clock using 2 32x16 LED matrix board from Sure Electronics and an Arduino UNO.
